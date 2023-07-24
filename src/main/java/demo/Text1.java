@@ -4,6 +4,7 @@ public class Text1 {
 
 	public static void main(String[] args)
 	{
+		//1.addition 
 		int a=1;
 		int b=45;
 		int sum=a+b;
